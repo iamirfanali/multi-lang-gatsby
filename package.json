@@ -1,12 +1,13 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "gatsby-starter-default-i18n",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Gatsby Multilanguage demo",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Irfan Ali <irfanaliamanat@gmail.com>",
   "dependencies": {
     "gatsby": "^2.13.73",
     "gatsby-image": "^2.2.10",
+    "gatsby-plugin-i18n": "^1.0.1",
     "gatsby-plugin-manifest": "^2.2.6",
     "gatsby-plugin-offline": "^2.2.7",
     "gatsby-plugin-react-helmet": "^3.1.4",
